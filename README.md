@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 checkout project using below github repository
 
 ```
-  git clone https://github.homedepot.com/assortment-commons
+  git clone https://github.com/violetautomation/laundry-junction-service.git
 ```
 
 pull all dependencies using below command 
